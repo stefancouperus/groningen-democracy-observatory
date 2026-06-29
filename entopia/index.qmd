@@ -1,0 +1,10 @@
+---
+pagetitle: "Entopia"
+---
+
+```{=html}
+<div id="democracy-dashboard" data-case-id="case_a" data-base-path="..">
+  <p class="dashboard-loading" role="status">Loading Entopia’s dashboard…</p>
+</div>
+<script type="module" src="../assets/js/dashboard.js"></script>
+```

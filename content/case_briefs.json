@@ -1,0 +1,80 @@
+[
+  {
+    "case_id": "case_a",
+    "standfirst": "Entopia is a populous republic with nationwide elections, elected municipalities, a rapidly changing information environment, and an increasingly concentrated national administration.",
+    "sections": [
+      {
+        "heading": "Political setting",
+        "paragraphs": [
+          "Entopia is a populous republic governed through a nationally elected executive and legislature, alongside municipalities with their own elected authorities. At the beginning of the period, electoral participation was broad, national contests were competitive, and courts, legislators, public watchdogs, and independent media all exercised recognisable checks on central power. Political conflict was often sharp, but criticism circulated through several channels and civic organisations were routinely consulted on public policy.",
+          "Over time, the balance among these institutions shifted. A sequence of legal and administrative reforms expanded central appointment powers and reduced the practical autonomy of several oversight bodies. Parliamentary scrutiny became less consequential, while public consultation increasingly occurred after major decisions had already been made. Lawyers and civic organisations have also questioned whether rules are now applied consistently across politically sensitive cases."
+        ]
+      },
+      {
+        "heading": "Recent history",
+        "paragraphs": [
+          "The most visible change concerns the information environment. National broadcasters and large news outlets now offer a narrower range of critical reporting than they did earlier in the period, even though online communication has expanded rapidly. Courts continue to issue judgments against public authorities, but implementation has become uneven and delayed. Formal judicial careers retain some professional protections, creating a mixed picture in which institutional independence appears stronger on paper than executive compliance in practice.",
+          "Electoral competition has not disappeared. Opposition parties organise nationally and have retained control of several important municipalities. Independent associations remain active, although their room for influence and consultation is smaller than before. Women hold a larger share of legislative seats than at the start of the period, and some measures of political inclusion have also improved."
+        ]
+      },
+      {
+        "heading": "Current picture",
+        "paragraphs": [
+          "Entopia enters the final year with functioning elections, extensive formal suffrage, and identifiable opposition centres. Legislative scrutiny and administrative checks carry less practical weight than they once did, access to alternative information has narrowed, and public debate is more constrained. During the same period, household incomes, urbanisation, and online connectivity all increased, reshaping everyday life across the republic."
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "case_b",
+    "standfirst": "Moreland is a medium-sized republic where regular national elections, powerful municipalities, established courts, and a changing media system coexist.",
+    "sections": [
+      {
+        "heading": "Political setting",
+        "paragraphs": [
+          "Moreland is a medium-sized republic in which national governments are formed through regular legislative elections. At the start of the period, political authority was constrained by an independent judiciary, active parliamentary committees, autonomous public bodies, diverse media, and established consultation with civic organisations. Adult voting rights and elected control of public office were firmly embedded, and local authorities exercised substantial responsibilities.",
+          "The institutional trajectory since then has been cumulative. Successive changes to appointment procedures, administrative supervision, and media regulation did not abolish formal democratic institutions, but gradually altered who could use them effectively. Senior courts became less insulated from governing influence as majorities gained more control over appointments. Public watchdogs retained legal mandates while becoming less willing or able to challenge executive priorities."
+        ]
+      },
+      {
+        "heading": "Recent history",
+        "paragraphs": [
+          "Public decision-making has also become less open. Consultation periods have shortened, some organised interests report being heard only selectively, and official policy explanations engage less consistently with objections. Independent news remains available, but ownership concentration and unequal access to audiences have narrowed the practical range of alternative information. Election campaigns therefore remain meaningful while taking place in a less balanced institutional environment.",
+          "The pattern is not uniform. Elected municipalities continue to possess substantial authority, independent political associations remain active, and public bodies generally comply with individual court judgments even as the judiciary’s broader autonomy has weakened. Formal suffrage and elected control of office remain stable. Municipal budgets and local administration remain important sites of political conflict, and civic networks continue to organise in many regions."
+        ]
+      },
+      {
+        "heading": "Current picture",
+        "paragraphs": [
+          "By the final year, Moreland combines persistent electoral and local competition with courts that are less insulated from governing influence, less predictable rule enforcement, reduced civic consultation, and a more constrained information environment. Living standards, internet access, and women’s legislative representation increased during the same period, while joblessness followed a less consistent path."
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "case_c",
+    "standfirst": "Govistan is a republic with competitive elections, elected regional and local authorities, an active civic sector, and institutions reshaped by successive governments.",
+    "sections": [
+      {
+        "heading": "Political setting",
+        "paragraphs": [
+          "Govistan is a republic with competitive national elections, elected regional and local authorities, and a long-standing network of courts, civic organisations, and public oversight institutions. Early in the period, its elections, personal freedoms, ability to seek legal redress, and alternative sources of information were generally strong. Governments faced meaningful scrutiny from legislators and independent institutions, although public consultation and equality of political influence were not complete.",
+          "During the middle of the period, governing majorities revised judicial appointments, reduced the autonomy of some oversight bodies, and increased political influence over major public information channels. Consultation narrowed and official reasoning became less responsive to counterarguments. The changes accumulated over several years: elections remained competitive enough to permit alternation, but several institutions that should constrain executive power became substantially weaker."
+        ]
+      },
+      {
+        "heading": "Recent history",
+        "paragraphs": [
+          "After a recent electoral change, parliamentary scrutiny strengthened, critical reporting became more widely accessible, and civic organisations were again included in policy discussions. Public debate and the justification of policy also became more open. These shifts were visible relatively quickly because they depended partly on government practice rather than lengthy institutional reconstruction.",
+          "Repair has nevertheless been uneven. Courts contain officeholders appointed under disputed procedures, and disagreements continue over how earlier legal changes can be reversed without creating new violations. Public authorities comply with court decisions more consistently than at the low point, but performance has not fully returned to its earlier level. Changes in consultation and access to information became visible within a few years; disputes surrounding legal institutions have persisted into the final year."
+        ]
+      },
+      {
+        "heading": "Current picture",
+        "paragraphs": [
+          "Govistan enters the final year with strong electoral competition, personal freedoms, local government, and renewed scrutiny from parliament. Judicial institutions and predictable law enforcement have recovered only partially, and disputes over appointments remain unresolved. Over the full period, online access and average incomes rose, joblessness fell, and women’s legislative representation increased."
+        ]
+      }
+    ]
+  }
+]

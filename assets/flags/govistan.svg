@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Flag of Govistan</title>
+  <desc id="desc">A plum flag with a wide blue chevron extending from the hoist and a small gold diamond near the fly.</desc>
+  <rect width="900" height="600" fill="#57284d"/>
+  <path d="M0 0 355 300 0 600 0 470 198 300 0 130Z" fill="#557d9c"/>
+  <path d="M690 228 762 300 690 372 618 300Z" fill="#d2a13c"/>
+</svg>

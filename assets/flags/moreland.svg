@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Flag of Moreland</title>
+  <desc id="desc">A deep teal flag crossed by a broad ivory horizontal band with a coral ring at its centre.</desc>
+  <rect width="900" height="600" fill="#175b5b"/>
+  <rect y="218" width="900" height="164" fill="#f2ead7"/>
+  <circle cx="450" cy="300" r="92" fill="#c85f4b"/>
+  <circle cx="450" cy="300" r="48" fill="#f2ead7"/>
+</svg>

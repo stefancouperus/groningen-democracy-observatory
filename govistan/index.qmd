@@ -1,0 +1,10 @@
+---
+pagetitle: "Govistan"
+---
+
+```{=html}
+<div id="democracy-dashboard" data-case-id="case_c" data-base-path="..">
+  <p class="dashboard-loading" role="status">Loading Govistan’s dashboard…</p>
+</div>
+<script type="module" src="../assets/js/dashboard.js"></script>
+```

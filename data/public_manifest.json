@@ -1,0 +1,41 @@
+{
+  "generated_on": "2026-06-29T14:20:28.152Z",
+  "dataset_version": "1.1.0",
+  "case_count": 3,
+  "variable_count": 45,
+  "observation_count": 2700,
+  "files": [
+    {
+      "path": "assets/flags/entopia.svg",
+      "sha256": "b152a7b6d18998a8ee8dd8101cba46ee30606fafa1cf3cad50fad07e2991dde5"
+    },
+    {
+      "path": "assets/flags/govistan.svg",
+      "sha256": "6870455ec831dd81ec32f9b5ef7dc7c33e35f51b8c8675aaad87dfcb5027dbd6"
+    },
+    {
+      "path": "assets/flags/moreland.svg",
+      "sha256": "fdaeeb84083e52c09bfc52b0b82e05ce4a18a3ccc7eedf4d51e3e026ae4b4641"
+    },
+    {
+      "path": "data/case_a.json",
+      "sha256": "021b3a68c77951d80054d8f5460c37e1d2680c50ae808ae7554ab3643600a8bf"
+    },
+    {
+      "path": "data/case_b.json",
+      "sha256": "f323bee629f048e7e38c2871cd5d3ac2ea9f5de28f68fb7e9d6d8bb592e1d622"
+    },
+    {
+      "path": "data/case_c.json",
+      "sha256": "512d212fbdad2c33ec3089a91e2dfc57952e9a8b5d6b761d41c47e64a195f6ee"
+    },
+    {
+      "path": "data/cases.json",
+      "sha256": "a8b683df050e6d0cc429ad48a3d771f66c949ba58d114611d1332e8fadd573cc"
+    },
+    {
+      "path": "data/variables.json",
+      "sha256": "83a55201db217004f24d350288a2f60afda3785f610054ccd7115b218ec8831d"
+    }
+  ]
+}

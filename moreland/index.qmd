@@ -1,0 +1,10 @@
+---
+pagetitle: "Moreland"
+---
+
+```{=html}
+<div id="democracy-dashboard" data-case-id="case_b" data-base-path="..">
+  <p class="dashboard-loading" role="status">Loading Moreland’s dashboard…</p>
+</div>
+<script type="module" src="../assets/js/dashboard.js"></script>
+```

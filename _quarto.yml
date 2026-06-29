@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets
+    - data
+
+website:
+  title: "Groningen Democracy Observatory"
+  favicon: assets/favicon.svg
+  navbar: false
+  search: false
+  page-navigation: false
+  back-to-top-navigation: false
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/dashboard.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    anchor-sections: false
+    code-fold: false
+    link-external-newwindow: true
+
+execute:
+  echo: false
+  warning: false
+  error: false

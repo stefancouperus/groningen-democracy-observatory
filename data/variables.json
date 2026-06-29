@@ -1,0 +1,677 @@
+[
+  {
+    "variable_id": "lib_access_to_justice",
+    "label": "Access to justice",
+    "theme": "Law, rights and accountability",
+    "description": "Do citizens enjoy secure and effective access to justice?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 7,
+    "search_terms": [
+      "legal remedy",
+      "courts access",
+      "fair hearing",
+      "justice system"
+    ]
+  },
+  {
+    "variable_id": "cond_political_association_activity",
+    "label": "Activity in independent political associations",
+    "theme": "Civic and direct participation",
+    "description": "What share of the population is regularly active in independent political interest associations, such as environmental associations, animal rights groups, or LGBT rights groups?",
+    "unit": "0–100 activity score",
+    "higher_means": "more association activity",
+    "display_order": 32,
+    "search_terms": [
+      "association membership",
+      "political groups",
+      "independent organisations",
+      "civic activity"
+    ]
+  },
+  {
+    "variable_id": "elec_adult_suffrage",
+    "label": "Adult suffrage",
+    "theme": "Elections and representation",
+    "description": "What share of adult citizens as defined by statute has the legal right to vote in national elections?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 1,
+    "search_terms": [
+      "voting rights",
+      "franchise",
+      "adult citizens",
+      "legal right to vote"
+    ]
+  },
+  {
+    "variable_id": "delib_consultation_breadth",
+    "label": "Breadth of consultation",
+    "theme": "Decision-making and public debate",
+    "description": "When important policy changes are being considered, how wide is the range of consultation at elite levels?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 16,
+    "search_terms": [
+      "public consultation",
+      "stakeholder input",
+      "hear affected groups",
+      "consultation period"
+    ]
+  },
+  {
+    "variable_id": "part_citizen_initiative_access",
+    "label": "Citizen-initiative access",
+    "theme": "Civic and direct participation",
+    "description": "To what extent is the Citizen Initiated Component utilized?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 21,
+    "search_terms": [
+      "citizen proposal",
+      "popular initiative",
+      "petition mechanism",
+      "agenda initiative"
+    ]
+  },
+  {
+    "variable_id": "lib_civil_liberties",
+    "label": "Civil-liberties protection",
+    "theme": "Law, rights and accountability",
+    "description": "To what extent are laws transparent and rigorously enforced and public administration impartial, and to what extent do citizens enjoy access to justice, secure property rights, freedom from forced labor, freedom of movement, physical integrity rights, and freedom of religion?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 8,
+    "search_terms": [
+      "basic freedoms",
+      "personal rights",
+      "state interference",
+      "civil rights"
+    ]
+  },
+  {
+    "variable_id": "part_cso_autonomy",
+    "label": "Civil-society autonomy",
+    "theme": "Civic and direct participation",
+    "description": "How robust is civil society?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 19,
+    "search_terms": [
+      "independent civic groups",
+      "civil society freedom",
+      "non-governmental organisations",
+      "civic autonomy"
+    ]
+  },
+  {
+    "variable_id": "part_cso_policy_consultation",
+    "label": "Civil-society policy consultation",
+    "theme": "Civic and direct participation",
+    "description": "Are major civil society organizations (CSOs) routinely consulted by policymakers on policies relevant to their members?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 20,
+    "search_terms": [
+      "civic organisations consulted",
+      "policy influence",
+      "government consultation",
+      "organised interests"
+    ]
+  },
+  {
+    "variable_id": "cond_clean_government",
+    "label": "Clean government",
+    "theme": "Law, rights and accountability",
+    "description": "How pervasive is political corruption?",
+    "unit": "0–100 clean-government score",
+    "higher_means": "cleaner government",
+    "display_order": 33,
+    "search_terms": [
+      "public corruption",
+      "misuse of office",
+      "government integrity",
+      "bribery"
+    ]
+  },
+  {
+    "variable_id": "ctx_co2_per_capita",
+    "label": "CO2 emissions per capita",
+    "theme": "Technology and environment",
+    "description": "CO2 emissions per capita as reported by the source provider.",
+    "unit": "tonnes per person",
+    "higher_means": "more emissions",
+    "display_order": 44,
+    "search_terms": [
+      "carbon emissions",
+      "climate",
+      "emissions per person",
+      "CO2"
+    ]
+  },
+  {
+    "variable_id": "delib_common_good_justification",
+    "label": "Common-good justification",
+    "theme": "Decision-making and public debate",
+    "description": "When important policy changes are being considered, to what extent do political elites justify their positions in terms of the common good?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 17,
+    "search_terms": [
+      "public interest",
+      "common good",
+      "sectional interests",
+      "collective benefit"
+    ]
+  },
+  {
+    "variable_id": "elec_elected_office_control",
+    "label": "Control by elected officials",
+    "theme": "Elections and representation",
+    "description": "Is the chief executive and legislature appointed through popular elections?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 3,
+    "search_terms": [
+      "elected government",
+      "unelected power",
+      "public office",
+      "civilian control"
+    ]
+  },
+  {
+    "variable_id": "part_local_elected_power",
+    "label": "Elected local-government power",
+    "theme": "Civic and direct participation",
+    "description": "Are there elected local governments, and --- if so --- to what extent can they operate without interference from unelected bodies at the local level?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 23,
+    "search_terms": [
+      "municipal authority",
+      "local government",
+      "opposition mayors",
+      "regional power"
+    ]
+  },
+  {
+    "variable_id": "elec_election_integrity",
+    "label": "Election integrity",
+    "theme": "Elections and representation",
+    "description": "To what extent are elections free and fair?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 2,
+    "search_terms": [
+      "fair elections",
+      "campaign conditions",
+      "vote counting",
+      "electoral misconduct"
+    ]
+  },
+  {
+    "variable_id": "egal_equal_protection",
+    "label": "Equal protection across groups",
+    "theme": "Equality and access",
+    "description": "How equal is the protection of rights and freedoms across social groups by the state?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 24,
+    "search_terms": [
+      "group protection",
+      "equal treatment",
+      "discrimination",
+      "minority protection"
+    ]
+  },
+  {
+    "variable_id": "egal_justice_access_equality",
+    "label": "Equality of access to justice",
+    "theme": "Equality and access",
+    "description": "Do poor people enjoy the same level of civil liberties as rich people do?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 26,
+    "search_terms": [
+      "equal court access",
+      "justice inequality",
+      "legal access by group",
+      "fair remedy"
+    ]
+  },
+  {
+    "variable_id": "egal_resource_access_equality",
+    "label": "Equality of access to resources",
+    "theme": "Equality and access",
+    "description": "How equal is the distribution of resources?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 30,
+    "search_terms": [
+      "public resources",
+      "education access",
+      "health access",
+      "unequal opportunities"
+    ]
+  },
+  {
+    "variable_id": "egal_civil_liberty_equality",
+    "label": "Equality of civil liberties",
+    "theme": "Equality and access",
+    "description": "Do all social groups, as distinguished by language, ethnicity, religion, race, region, or caste, enjoy the same level of civil liberties, or are some groups generally in a more favorable position?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 25,
+    "search_terms": [
+      "unequal freedoms",
+      "group liberties",
+      "equal civil rights",
+      "discriminatory restrictions"
+    ]
+  },
+  {
+    "variable_id": "lib_executive_court_compliance",
+    "label": "Executive compliance with courts",
+    "theme": "Law, rights and accountability",
+    "description": "How often would you say the government complies with important decisions by other courts with which it disagrees?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 10,
+    "search_terms": [
+      "implement judgments",
+      "obey court decisions",
+      "adverse rulings",
+      "court orders"
+    ]
+  },
+  {
+    "variable_id": "lib_executive_constitutional_compliance",
+    "label": "Executive respect for constitutional limits",
+    "theme": "Law, rights and accountability",
+    "description": "Do members of the executive (the head of state, the head of government, and cabinet ministers) respect the constitution?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 11,
+    "search_terms": [
+      "constitutional limits",
+      "executive restraint",
+      "constitutional rules",
+      "abuse of power"
+    ]
+  },
+  {
+    "variable_id": "elec_alternative_information",
+    "label": "Freedom of alternative information",
+    "theme": "Elections and representation",
+    "description": "To what extent does government respect press and media freedom, the freedom of ordinary people to discuss political matters at home and in the public sphere, as well as the freedom of academic and cultural expression?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 5,
+    "search_terms": [
+      "independent media",
+      "critical reporting",
+      "news pluralism",
+      "alternative sources"
+    ]
+  },
+  {
+    "variable_id": "elec_opposition_association",
+    "label": "Freedom of opposition and association",
+    "theme": "Elections and representation",
+    "description": "To what extent are parties, including opposition parties, allowed to form and to participate in elections, and to what extent are civil society organizations able to form and to operate freely?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 4,
+    "search_terms": [
+      "opposition parties",
+      "party organisation",
+      "political association",
+      "campaign freely"
+    ]
+  },
+  {
+    "variable_id": "ctx_gdp_growth",
+    "label": "GDP growth",
+    "theme": "Economy and labour",
+    "description": "GDP growth as reported by the source provider.",
+    "unit": "percent",
+    "higher_means": "higher growth",
+    "display_order": 37,
+    "search_terms": [
+      "economic growth",
+      "recession",
+      "output change",
+      "economy expansion"
+    ]
+  },
+  {
+    "variable_id": "ctx_gdp_per_capita_index",
+    "label": "GDP per capita index",
+    "theme": "Economy and labour",
+    "description": "GDP per capita index as reported by the source provider.",
+    "unit": "index, Year 1 = 100",
+    "higher_means": "higher indexed income",
+    "display_order": 36,
+    "search_terms": [
+      "average income",
+      "economic prosperity",
+      "income per person",
+      "living standards"
+    ]
+  },
+  {
+    "variable_id": "egal_gender_power_equality",
+    "label": "Gender equality in political power",
+    "theme": "Equality and access",
+    "description": "Is political power distributed according to gender?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 27,
+    "search_terms": [
+      "gender political power",
+      "women influence",
+      "gender equality",
+      "political leadership"
+    ]
+  },
+  {
+    "variable_id": "cond_income_inequality",
+    "label": "Income inequality (Gini)",
+    "theme": "Equality and access",
+    "description": "Income inequality (Gini) as reported by the source provider.",
+    "unit": "Gini points",
+    "higher_means": "more inequality",
+    "display_order": 35,
+    "search_terms": [
+      "income distribution",
+      "gini",
+      "economic inequality",
+      "income gap"
+    ]
+  },
+  {
+    "variable_id": "lib_oversight_body_independence",
+    "label": "Independence of oversight bodies",
+    "theme": "Law, rights and accountability",
+    "description": "If executive branch officials were engaged in unconstitutional, illegal, or unethical activity, how likely is it that a body other than the legislature, such as a comptroller general, general prosecutor, or ombudsman, would question or investigate them and issue an unfavorable decision or report?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 13,
+    "search_terms": [
+      "public watchdogs",
+      "audit office",
+      "ombudsman",
+      "independent regulator"
+    ]
+  },
+  {
+    "variable_id": "ctx_inflation",
+    "label": "Inflation",
+    "theme": "Economy and labour",
+    "description": "Inflation as reported by the source provider.",
+    "unit": "percent",
+    "higher_means": "higher inflation",
+    "display_order": 38,
+    "search_terms": [
+      "price increases",
+      "cost of living",
+      "consumer prices",
+      "price growth"
+    ]
+  },
+  {
+    "variable_id": "ctx_internet_use",
+    "label": "Internet use",
+    "theme": "Technology and environment",
+    "description": "Internet use as reported by the source provider.",
+    "unit": "percent",
+    "higher_means": "more internet use",
+    "display_order": 43,
+    "search_terms": [
+      "online access",
+      "digital connectivity",
+      "internet users",
+      "online communication"
+    ]
+  },
+  {
+    "variable_id": "lib_judicial_independence",
+    "label": "Judicial independence",
+    "theme": "Law, rights and accountability",
+    "description": "When the high court in the judicial system is ruling in cases that are salient to the government, how often would you say that it makes decisions that merely reflect government wishes regardless of its sincere view of the legal record?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 9,
+    "search_terms": [
+      "independent courts",
+      "judge appointments",
+      "political pressure on judges",
+      "court autonomy"
+    ]
+  },
+  {
+    "variable_id": "lib_legislative_oversight",
+    "label": "Legislative oversight",
+    "theme": "Law, rights and accountability",
+    "description": "To what extent are the legislature and government agencies e.g., comptroller general, general prosecutor, or ombudsman capable of questioning, investigating, and exercising oversight over the executive?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 12,
+    "search_terms": [
+      "parliamentary scrutiny",
+      "legislative committees",
+      "question government",
+      "assembly oversight"
+    ]
+  },
+  {
+    "variable_id": "ctx_life_expectancy",
+    "label": "Life expectancy",
+    "theme": "Health and society",
+    "description": "Life expectancy as reported by the source provider.",
+    "unit": "years",
+    "higher_means": "longer life expectancy",
+    "display_order": 42,
+    "search_terms": [
+      "longevity",
+      "health outcomes",
+      "expected lifespan",
+      "mortality"
+    ]
+  },
+  {
+    "variable_id": "ctx_net_migration_rate",
+    "label": "Net migration rate",
+    "theme": "Population and settlement",
+    "description": "Net migration rate as reported by the source provider.",
+    "unit": "per 1,000 people",
+    "higher_means": "more net immigration",
+    "display_order": 45,
+    "search_terms": [
+      "immigration",
+      "emigration",
+      "population movement",
+      "migration balance"
+    ]
+  },
+  {
+    "variable_id": "ctx_population_millions",
+    "label": "Population",
+    "theme": "Population and settlement",
+    "description": "Population as reported by the source provider.",
+    "unit": "millions",
+    "higher_means": "larger population",
+    "display_order": 40,
+    "search_terms": [
+      "inhabitants",
+      "population size",
+      "demographic size",
+      "residents"
+    ]
+  },
+  {
+    "variable_id": "delib_public_deliberation",
+    "label": "Public deliberation",
+    "theme": "Decision-making and public debate",
+    "description": "When important policy changes are being considered, how wide and how independent are public deliberations?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 18,
+    "search_terms": [
+      "public debate",
+      "reasoned discussion",
+      "policy dialogue",
+      "open debate"
+    ]
+  },
+  {
+    "variable_id": "delib_reasoned_justification",
+    "label": "Reasoned justification of policy",
+    "theme": "Decision-making and public debate",
+    "description": "When important policy changes are being considered, i.e. before a decision has been made, to what extent do political elites give public and reasoned justifications for their positions?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 14,
+    "search_terms": [
+      "policy explanation",
+      "reasoned decisions",
+      "public justification",
+      "government reasoning"
+    ]
+  },
+  {
+    "variable_id": "part_referendum_access",
+    "label": "Referendum access",
+    "theme": "Civic and direct participation",
+    "description": "To what extent is the referendum utilized?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 22,
+    "search_terms": [
+      "referendum",
+      "popular vote",
+      "direct vote",
+      "ballot question"
+    ]
+  },
+  {
+    "variable_id": "delib_counterargument_respect",
+    "label": "Respect for counterarguments",
+    "theme": "Decision-making and public debate",
+    "description": "When important policy changes are being considered, to what extent do political elites acknowledge and respect counterarguments?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 15,
+    "search_terms": [
+      "respond to objections",
+      "opposing arguments",
+      "policy criticism",
+      "alternative views"
+    ]
+  },
+  {
+    "variable_id": "egal_social_group_power_equality",
+    "label": "Social-group equality in political power",
+    "theme": "Equality and access",
+    "description": "Is political power distributed according to social groups?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 29,
+    "search_terms": [
+      "minority political power",
+      "social groups",
+      "group influence",
+      "political exclusion"
+    ]
+  },
+  {
+    "variable_id": "egal_socioeconomic_power_equality",
+    "label": "Socioeconomic equality in political power",
+    "theme": "Equality and access",
+    "description": "Is political power distributed according to socioeconomic position?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 28,
+    "search_terms": [
+      "wealth and political influence",
+      "class power",
+      "income groups",
+      "economic privilege"
+    ]
+  },
+  {
+    "variable_id": "lib_law_predictability",
+    "label": "Transparent laws and predictable enforcement",
+    "theme": "Law, rights and accountability",
+    "description": "Are the laws of the land clear, well publicized, coherent (consistent with each other), relatively stable from year to year, and enforced in a predictable manner?",
+    "unit": "0–100 institutional-performance score",
+    "higher_means": "more democratic institutional performance",
+    "display_order": 6,
+    "search_terms": [
+      "predictable rules",
+      "consistent enforcement",
+      "legal certainty",
+      "arbitrary law"
+    ]
+  },
+  {
+    "variable_id": "ctx_unemployment",
+    "label": "Unemployment",
+    "theme": "Economy and labour",
+    "description": "Unemployment as reported by the source provider.",
+    "unit": "percent",
+    "higher_means": "higher unemployment",
+    "display_order": 39,
+    "search_terms": [
+      "joblessness",
+      "employment conditions",
+      "labour market",
+      "without work"
+    ]
+  },
+  {
+    "variable_id": "ctx_urbanisation",
+    "label": "Urban population",
+    "theme": "Population and settlement",
+    "description": "Urban population as reported by the source provider.",
+    "unit": "percent",
+    "higher_means": "more urbanisation",
+    "display_order": 41,
+    "search_terms": [
+      "urban population",
+      "cities",
+      "urbanisation",
+      "city residents"
+    ]
+  },
+  {
+    "variable_id": "cond_voter_turnout",
+    "label": "Voter turnout",
+    "theme": "Civic and direct participation",
+    "description": "In this national election, what percentage (%) of the adult voting-age population cast a vote according to official results?",
+    "unit": "percent",
+    "higher_means": "higher turnout",
+    "display_order": 31,
+    "search_terms": [
+      "election participation",
+      "votes cast",
+      "voting participation",
+      "electoral turnout"
+    ]
+  },
+  {
+    "variable_id": "cond_women_parliament_share",
+    "label": "Women in parliament",
+    "theme": "Equality and access",
+    "description": "Women in parliament as reported by the source provider.",
+    "unit": "percent",
+    "higher_means": "more descriptive representation",
+    "display_order": 34,
+    "search_terms": [
+      "female legislators",
+      "women representatives",
+      "gender representation",
+      "parliament seats"
+    ]
+  }
+]
