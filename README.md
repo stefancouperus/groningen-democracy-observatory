@@ -1,6 +1,9 @@
 # Groningen Democracy Observatory dashboard
 
-This directory is the sanitised, student-facing Quarto website. Its rendered output is `dashboard/_site/`.
+This directory is the sanitised, student-facing Quarto website. Its rendered output is `_site/`.
+
+- Live dashboard: <https://stefancouperus.github.io/groningen-democracy-observatory/>
+- GitHub repository: <https://github.com/stefancouperus/groningen-democracy-observatory>
 
 ## Local editing workflow
 
